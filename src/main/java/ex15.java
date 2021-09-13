@@ -1,9 +1,9 @@
-import java.util.Scanner;
-
 /*
-    UCF COP3330 Fall 2021 Assignment 10 Solution
+    UCF COP3330 Fall 2021 Assignment 15 Solution
     Copyright 2021 Luke Faulkner
  */
+
+import java.util.Scanner;
 public class ex15 {
     public static void main(String[] args) {
 
